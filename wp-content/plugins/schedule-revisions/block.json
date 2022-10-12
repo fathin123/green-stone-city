@@ -1,0 +1,14 @@
+{
+	"name": "schedule-revisions/schedule-revisions-block",
+	"title": "Schedule Revisions",
+	"category": "general",
+	"icon": "smiley",
+	"description": "Allow content within your post to appear or disappear at a certain time.",
+	"textdomain": "schedule-revisions",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
